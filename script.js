@@ -69,12 +69,3 @@ function checkWin() {
         status.style.color = "green";
     }
 }
-
-const restartBtn = document.getElementById("restart-btn");
-restartBtn.addEventListener("click", () => {
-    firstTile = null;
-    secondTile = null;
-    lockBoard = false;
-    document.getElementById("game-status").textContent = "Memory Duel";
-    generateTiles();
-})
