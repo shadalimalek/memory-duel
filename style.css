@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body {
     font-family: sans-serif;
     background-color: #f3f4f6;
@@ -56,7 +56,8 @@ button:hover {
     margin-bottom: 20px;
     color: #333;
     font-weight: bold;
-=======
+}
+
 body {
     font-family: sans-serif;
     background-color: #f3f4f6;
@@ -114,5 +115,4 @@ button:hover {
     margin-bottom: 20px;
     color: #333;
     font-weight: bold;
->>>>>>> bbc3fb614d8d9b99bc2fb72ced107d478d2cec34
 }
