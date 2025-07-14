@@ -116,3 +116,15 @@ button:hover {
     color: #333;
     font-weight: bold;
 }
+
+#mode-select {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#mode-select button {
+    margin: 0 10px;
+    padding: 6px 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
